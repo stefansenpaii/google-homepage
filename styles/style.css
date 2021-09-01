@@ -55,7 +55,7 @@ p{
     border-color:rgb(226, 226, 226);
     border-style: solid;
     top:170px;
-    background-image:url('images/lupa.png'),url('images/keyboard-with-wire.png'),url('images/ea5f5bd3b4110f2afb958049b4096d3a.png');
+    background-image:url("lupa.png"),url("keyboard-with-wire.png"),url("ea5f5bd3b4110f2afb958049b4096d3a.png");
     padding-left: 45px;
     background-size: 13px,17px,25px;
     background-position-y: center,center,center;
